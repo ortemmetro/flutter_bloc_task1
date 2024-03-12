@@ -1,0 +1,26 @@
+name: flutter_bloc_task_1
+description: "Task for newbies on flutter_bloc"
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_bloc: ^8.1.4
+  json_serializable: ^6.7.1
+  json_annotation: ^4.8.1
+  http: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  build_runner: ^2.4.8
+
+flutter:
+  uses-material-design: true
