@@ -12,6 +12,8 @@ Use [flutter_bloc](https://pub.dev/packages/flutter_bloc) to to achieve this. Do
 
 Use [json_serializable](https://pub.dev/packages/json_serializable) and [json_annotation](https://pub.dev/packages/json_annotation) to serialize the data.
 
+Feel free to add files and folders if you need it.
+
 All needed packages already installed in repo. All widgets that you need already in repo. You just need to add get request and add bloc to handle states.
 
 That's it, good luck!
